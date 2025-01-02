@@ -17,6 +17,7 @@
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
 		<RepositoryUrl>https://github.com/vishipayyallore/learn-csharp-in-2024/tree/main/Libraries</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 	</PropertyGroup>
 
 	<ItemGroup>
