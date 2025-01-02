@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "HelloEnvironment": {
-      "commandName": "Project",
-      "commandLineArgs": "Arg1 Arg2 Arg3 Arg4"
-    }
-  }
-}
