@@ -24,4 +24,8 @@
 		<None Include="README.md" Pack="true" PackagePath="" />
 	</ItemGroup>
 
+	<ItemGroup>
+		<Using Include="System.Console" Static="true" />
+	</ItemGroup>
+
 </Project>
