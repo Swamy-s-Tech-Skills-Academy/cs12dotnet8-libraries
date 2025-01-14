@@ -15,7 +15,7 @@
 		<PackageReleaseNotes>Initial version 1.0</PackageReleaseNotes>
 		<AssemblyVersion>1.1.1</AssemblyVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<RepositoryUrl>https://github.com/vishipayyallore/learn-csharp-in-2024/tree/main/Libraries</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Swamy-s-Tech-Skills-Academy/cs12dotnet8-libraries</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 	</PropertyGroup>
