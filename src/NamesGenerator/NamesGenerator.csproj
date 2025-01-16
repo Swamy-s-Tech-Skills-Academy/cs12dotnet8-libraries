@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>net8.0</TargetFramework>
+		<TargetFramework>net9.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<PackageId>NamesGenerator</PackageId>
@@ -15,7 +15,7 @@
 		<PackageReleaseNotes>Initial version 1.0</PackageReleaseNotes>
 		<AssemblyVersion>1.1.1</AssemblyVersion>
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-		<RepositoryUrl>https://github.com/vishipayyallore/learn-csharp-in-2024/tree/main/Libraries</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Swamy-s-Tech-Skills-Academy/cs12dotnet8-libraries</RepositoryUrl>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<TreatWarningsAsErrors>true</TreatWarningsAsErrors>
 	</PropertyGroup>

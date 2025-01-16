@@ -1,14 +1,41 @@
 ﻿namespace ConsoleColorStyleLib;
 
+/// <summary>
+/// Defines a set of console color styles.
+/// </summary>
 public enum ConsoleColorStyle
 {
-    DarkYellow = 1,
+    Black = 0,
 
-    DarkCyan = 2,
+    DarkBlue = 1,
 
-    DarkGreen = 3,
+    DarkGreen = 2,
 
-    DarkMagenta = 4,
+    DarkCyan = 3,
 
-    Red = 5,
+    DarkRed = 4,
+
+    DarkMagenta = 5,
+
+    DarkYellow = 6,
+
+    Gray = 7,
+
+    DarkGray = 8,
+
+    Blue = 9,
+
+    Green = 10,
+
+    Cyan = 11,
+
+    Red = 12,
+
+    Magenta = 13,
+
+    Yellow = 14,
+
+    White = 15
 }
+
+
