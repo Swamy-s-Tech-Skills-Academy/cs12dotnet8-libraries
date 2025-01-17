@@ -2,5 +2,5 @@
 
 public interface IFooter
 {
-    void DisplayFooter(char footer, int length = 100, ConsoleColor foregroundColor = ConsoleColor.Yellow);
+    void DisplayFooter(char footerChar, int length = 100, ConsoleColor foregroundColor = ConsoleColor.Yellow);
 }
